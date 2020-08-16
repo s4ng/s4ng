@@ -29,13 +29,13 @@
 </a>
 </p>
 
+<!--
 ---
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=s4ng/s4ng" alt="visitor"/>
 </p>
 
-<!--
 **s4ng/s4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
