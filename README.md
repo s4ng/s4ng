@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html" />
 </a>
 <a href="https://github.com/s4ng/s4ng">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=48&count_private=true&hide=contribs" alt="s4ng's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="s4ng's GitHub Stats" />
 </a>
 </p>
 
