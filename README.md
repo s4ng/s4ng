@@ -1,6 +1,6 @@
 ## Sang-geun Lee - @s4ng
 
----
+🔗Portfolio : [Sang-geun Lee](https://www.notion.so/Sang-geun-Lee-c84b58fb08cd43bc8062a3fd332fc461)
 
 <!--
 **s4ng/s4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
