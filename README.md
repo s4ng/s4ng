@@ -5,7 +5,7 @@
 </br>
 
 <p align="">
-<a href="https://github.com/junhobaik/s4ng">
+<a href="https://github.com/s4ng/s4ng">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html" />
 </a>
 <a href="https://github.com/s4ng/s4ng">
