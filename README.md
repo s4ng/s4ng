@@ -3,9 +3,9 @@
 ### 🔗Portfolio : [Sang-geun Lee](https://www.notion.so/Sang-geun-Lee-c84b58fb08cd43bc8062a3fd332fc461)
 
 </br>
-
-<p align="" style="font-size: 30px;">
-  😎&nbsp;
+😎&nbsp;
+<p align="">
+  
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" title="nodejs"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" title="react"></code>
