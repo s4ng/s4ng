@@ -1,8 +1,10 @@
 ## Lee Sang-geun - @s4ng
 
-### 🔗Portfolio : [Lee Sang-geun](https://www.notion.so/Lee-Sang-geun-c84b58fb08cd43bc8062a3fd332fc461)
+<h3><a href="https://www.notion.so/Lee-Sang-geun-c84b58fb08cd43bc8062a3fd332fc461" target="_blank">Lee Sang-geun</a></h3>
 
 <!--
+
+### 🔗Portfolio : [Lee Sang-geun](https://www.notion.so/Lee-Sang-geun-c84b58fb08cd43bc8062a3fd332fc461)
 
 </br>
 
