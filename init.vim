@@ -12,7 +12,6 @@ Plug 'dense-analysis/ale'
 Plug 'mxw/vim-jsx'
 Plug 'pangloss/vim-javascript'
 call plug#end()
-" ============================================
 
 "==================Plugin Setting=================
 " open quickfix window automatically when AsyncRun is executed
@@ -92,7 +91,5 @@ set number relativenumber
 set nu rnu
 
 "color scheme setting
-set background = dark
 colorscheme vim-material
 let g:airline_theme='material'
-" =============================================
