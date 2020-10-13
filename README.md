@@ -21,8 +21,6 @@
   <code><img height="25" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile5.uf.tistory.com%2Fimage%2F9923593359840EC50A37A3" alt="mongodb" title="mongodb"></code>
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 -->
 
 </br>
@@ -35,6 +33,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="s4ng's GitHub Stats" />
   </a>
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 ---
