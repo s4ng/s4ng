@@ -1,6 +1,8 @@
 ## Lee Sang-geun - @s4ng
 
 ### 🔗 [Lee Sang-geun](https://www.notion.so/Lee-Sang-geun-c84b58fb08cd43bc8062a3fd332fc461)
+
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj={zalcls9512})](https://solved.ac/{zalcls9512})
 <!--
 </br>
 
