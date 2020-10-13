@@ -1,5 +1,6 @@
 ### Lee Sang-geun - @s4ng
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
 🔗 [Lee Sang-geun](https://www.notion.so/Lee-Sang-geun-c84b58fb08cd43bc8062a3fd332fc461)
 
 <!--
@@ -32,9 +33,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="s4ng's GitHub Stats" />
   </a>
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
 
 <!--
 ---
