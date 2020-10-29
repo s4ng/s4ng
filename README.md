@@ -27,19 +27,9 @@
 
 </br>
 
-[![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react)](https://github.com/s4ng)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="">
-  <a href="https://github.com/s4ng/s4ng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html&theme="radical"" />
-  </a>
-  <br>
-  <a href="https://github.com/s4ng/s4ng">
-    <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs&theme="radical"&layout="compact"" alt="s4ng's GitHub Stats" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
 
 <!--
 ---
