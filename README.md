@@ -29,10 +29,11 @@
 
 <p align="">
   <a href="https://github.com/s4ng/s4ng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html&theme="radical"" />
   </a>
+  <br>
   <a href="https://github.com/s4ng/s4ng">
-    <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="s4ng's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=s4ng&show_icons=true&line_height=40&count_private=true&hide=contribs&theme="radical"&layout="compact"" alt="s4ng's GitHub Stats" />
   </a>
 </p>
 
