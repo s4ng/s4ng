@@ -27,6 +27,10 @@
 
 </br>
 
+[![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="">
   <a href="https://github.com/s4ng/s4ng">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&hide=html&theme="radical"" />
