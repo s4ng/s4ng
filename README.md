@@ -1,6 +1,7 @@
 ### Lee Sang-geun - @s4ng
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zalcls951201@gmail.com)
+How to reach me => [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zalcls951201@gmail.com)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
 
 </br>
 
