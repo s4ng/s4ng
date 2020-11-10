@@ -3,8 +3,6 @@ How to reach me -> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?st
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
 
-</br>
-
 [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
 
