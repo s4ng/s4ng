@@ -1,9 +1,9 @@
 ### 👋 Lee Sang-geun - @s4ng
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zalcls951201@gmail.com)
 
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512) -->
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zalcls9512)](https://solved.ac/zalcls9512)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=react&animation=default&layout=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=react&animation=default&layout=default) -->
 
 [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
