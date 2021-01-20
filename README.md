@@ -5,7 +5,7 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=react&animation=default&layout=default) -->
 
-[![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng)
+<!-- [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
 
 
