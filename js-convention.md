@@ -14,9 +14,7 @@ if (condition) {
 }
 ```
 
-`if (condition) doSomething()` 과 같은 단 한 줄짜리 구문은 중요하게 다뤄야 할 예지케이스입니다.
-
-이런 예외상황에는 
+`if (condition) doSomething()` 과 같은 단 한 줄짜리 구문에는 
 
 ```jsx
 if (condition) doSomething();
