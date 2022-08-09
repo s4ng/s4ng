@@ -57,6 +57,8 @@ if has("autocmd")
     autocmd FileType c noremap <silent> <F5> :AsyncRun -raw -cwd=$(VIM_FILEDIR) -mode=4 "$(VIM_FILEDIR)/$(VIM_FILENOEXT)" <cr>
     autocmd FileType cpp noremap <silent> <F4> :AsyncRun g++ -Wall -O2 "$(VIM_FILEPATH)" -o "$(VIM_FILEDIR)/$(VIM_FILENOEXT)" <cr>
     autocmd FileType cpp noremap <silent> <F5> :AsyncRun -raw -cwd=$(VIM_FILEDIR) -mode=4 "$(VIM_FILEDIR)/$(VIM_FILENOEXT)" <cr>
+    autocmd FileType java noremap <silent> <F4> :AsyncRun javac % <cr>
+    autocmd FileType java noremap <silent> <F5> :AsyncRun -cwd=$(VIM_FILEDIR) -mode=4 -raw java -classpath . %:r <cr>
     autocmd FileType python map <F5> :AsyncRun -mode=4 -raw python % <cr>
     autocmd FileType javascript map <F5> :AsyncRun -mode=4 -raw node % <cr>
 
