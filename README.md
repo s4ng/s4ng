@@ -1,8 +1,11 @@
+<!--
 ### 👋 Lee Sang-geun - @s4ng
-
-<!-- [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) -->
+[![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
+-->
 
+
+![carbon](https://user-images.githubusercontent.com/48652807/184306969-ff018c13-3047-4ccd-88a8-564ceed86a8b.png)
 
 <!--
 </br>
