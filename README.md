@@ -4,8 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
 -->
 
-
-![carbon](https://user-images.githubusercontent.com/48652807/184306969-ff018c13-3047-4ccd-88a8-564ceed86a8b.png)
+![carbon (3)](https://user-images.githubusercontent.com/48652807/184308672-00ba3f73-c6cc-43b8-805e-c718f62af282.png)
 
 <!--
 </br>
