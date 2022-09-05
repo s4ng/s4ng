@@ -16,6 +16,8 @@ Plug 'kaicataldo/material.vim', { 'branch': 'main' }
 Plug 'dense-analysis/ale'
 Plug 'mxw/vim-jsx'
 Plug 'pangloss/vim-javascript'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 call plug#end()
 
 "==================Plugin Setting=================
@@ -39,11 +41,25 @@ let NERDTreeDirArrows = 1
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
 let g:delimitMate_autoclose = 1
-let g:delimitMate_matchpairs = "(:),[:],{:},<:>"
+let g:delimitMate_matchpairs = "(:),[:],{:}"
 let g:delimitMate_jump_expansion = 1
 let g:delimitMate_expand_space = 1
 let g:delimitMate_expand_cr = 2
 let g:delimitMate_expand_inside_quotes = 1
+
+inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
+
+function! CheckBackspace() abort
+  let col = col('.') - 1
+  return !col || getline('.')[col - 1]  =~# '\s'
+endfunction
+
+inoremap <silent><expr> <Tab>
+      \ coc#pum#visible() ? coc#pum#next(1) :
+      \ CheckBackspace() ? "\<Tab>" :
+      \ coc#refresh()
+
+inoremap <expr> <S-Tab> coc#pum#visible() ? coc#pum#prev(1) : "\<S-Tab>"
 
 "=================Key Settings ====================
 
