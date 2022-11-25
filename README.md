@@ -19,12 +19,13 @@
   <img height="100" src="https://user-images.githubusercontent.com/48652807/194749150-04203c01-7c16-40aa-904d-7d9c7f88dc34.svg" alt="spring" title="spring">
 </div>
 <br>
+<!-- 
 <div>
-  &nbsp&nbsp&nbsp
   <img height="140" src="https://user-images.githubusercontent.com/48652807/194749600-9e6ded9b-7fda-4a01-b525-6cdd48732a9a.png" alt="react" title="react">
-  &nbsp&nbsp&nbsp
   <img height="140" src="https://user-images.githubusercontent.com/48652807/203880859-8effa9d7-5d23-468e-bff9-10ccafbb4afb.png" alt="vue" title="vue">
-</div>
+  &nbsp&nbsp&nbsp
+  <img height="140" src="https://user-images.githubusercontent.com/48652807/203881135-bde55249-1896-4f2e-98dc-e7bfacd8f6a6.png" alt="js" title="js">
+</div> -->
 
 <!--
 </br>
