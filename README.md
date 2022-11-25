@@ -2,22 +2,30 @@
 ### 👋 Lee Sang-geun - @s4ng
 <!--
 [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ng&layout=compact&theme=react)](https://github.com/s4ng)
+-->
 
 <div>
   <img height="150" src="https://user-images.githubusercontent.com/48652807/194749479-166039ae-159d-4695-9619-814e9bb2a253.png" alt="vim" title="vim">
   &nbsp&nbsp&nbsp
   <img height="180" src="https://user-images.githubusercontent.com/48652807/194749243-2f423f73-5a0a-4ab1-a0ef-83689c1a7cbf.png" alt="java" title="java">
   &nbsp&nbsp&nbsp
-  <img height="140" src="https://user-images.githubusercontent.com/48652807/194749600-9e6ded9b-7fda-4a01-b525-6cdd48732a9a.png" alt="react" title="react">
+  <img height="150" src="https://user-images.githubusercontent.com/48652807/203880710-3d14ac3e-e647-45d5-955d-7e247d66140a.png" alt="kotlin" title="kotlin">
 </div>
 <br>
 <div>
   &nbsp&nbsp
   <img height="100" src="https://user-images.githubusercontent.com/48652807/194749150-04203c01-7c16-40aa-904d-7d9c7f88dc34.svg" alt="spring" title="spring">
 </div>
+<br>
+<div>
+  &nbsp&nbsp&nbsp
+  <img height="140" src="https://user-images.githubusercontent.com/48652807/194749600-9e6ded9b-7fda-4a01-b525-6cdd48732a9a.png" alt="react" title="react">
+  &nbsp&nbsp&nbsp
+  <img height="140" src="https://user-images.githubusercontent.com/48652807/203880859-8effa9d7-5d23-468e-bff9-10ccafbb4afb.png" alt="vue" title="vue">
+</div>
+
 <!--
 </br>
 <p align="">
