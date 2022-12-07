@@ -1,5 +1,8 @@
 
-### 👋 Lee Sang-geun - @s4ng
+### 👋 Lee Sang-geun - @s4ng 
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+![Profile views](https://gpvc.arturio.dev/s4ng)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/s4ng?tab=followers)
 <!--
 [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) 
 
