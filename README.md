@@ -1,5 +1,5 @@
 
-### 👋 Lee Sang-geun - @s4ng 
+### 👋 Lee Sang-geun - s4ng 
 
 <!--
 [![s4ng's github stats](https://github-readme-stats.vercel.app/api?username=s4ng&theme=react&show_icons=true&count_private=true)](https://github.com/s4ng) 
